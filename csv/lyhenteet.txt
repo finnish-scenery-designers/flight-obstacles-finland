@@ -1,0 +1,7 @@
+F R = Fixed red
+FLG R = Flashing red
+FLG W = Flashing white
+NIL = None
+
+HN = Sunset to sunrise
+H24 = Continuous day and night
