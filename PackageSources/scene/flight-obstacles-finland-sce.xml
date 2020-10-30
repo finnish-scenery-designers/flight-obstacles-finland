@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: Seattle_Radio_Antenna_03 (Beacon)-->
+	<!--EXAMPLE-->
+	<SceneryObject lat="61.93087914424670" lon="25.73163421425307" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FBF19A74-BFA3-41CE-B9BB-9A32912BD702}" scale="0.500000"/>
+		<AttachedObject attachpointName="" instanceId="{474BDC3C-1AE2-4F96-82DA-913E5058B35B}" pitch="0.000000" bank="0.000000" heading="0.000000">
+			<Beacon type="CIVILIAN" baseType="SEA_BASE"/>
+		</AttachedObject>
+	</SceneryObject>
+
+	<ExclusionRectangle latitudeMinimum="61.93079752404546" latitudeMaximum="61.93093250042459" longitudeMinimum="25.73152448279034" longitudeMaximum="25.73181085231938" excludeAllObjects="TRUE"/>
+
+</FSData>
+
