@@ -1,9 +1,9 @@
 <AssetPackage Name="flight-obstacles-finland" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title>Finland Flight Obstacles</Title>
+		<Title>Flight Obstacles Finland</Title>
 		<Manufacturer/>
-		<Creator>finnish scenery designers</Creator>
+		<Creator>Finnish Scenery Designers</Creator>
 	</ItemSettings>
 	<Flags>
 		<VisibleInStore>false</VisibleInStore>
@@ -31,7 +31,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\modelLib\</AssetDir>
+			<AssetDir>PackageSources\fin-obst-modelLib</AssetDir>
 			<OutputDir>scenery\global\scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
