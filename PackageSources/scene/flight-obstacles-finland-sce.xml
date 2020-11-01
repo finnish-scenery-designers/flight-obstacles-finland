@@ -1,15 +1,37 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
+	<!--SceneryObject name: Seattle_Radio_Antenna_01-->
+	<SceneryObject lat="60.22193548501725" lon="25.01081882417033" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E55B5F3B-3E4F-4F69-9F7A-ACCACBBEB018}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Seattle_Radio_Antenna_01-->
+	<SceneryObject lat="60.22212156395090" lon="25.01102956695366" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E55B5F3B-3E4F-4F69-9F7A-ACCACBBEB018}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Seattle_Radio_Antenna_02-->
+	<SceneryObject lat="60.22235285821019" lon="25.01137403569155" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D133BF39-BE5D-4AE6-8609-DD872AEA1488}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Seattle_Radio_Antenna_02-->
+	<SceneryObject lat="60.22252336288953" lon="25.01169446240771" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D133BF39-BE5D-4AE6-8609-DD872AEA1488}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Seattle_Radio_Antenna_03-->
+	<SceneryObject lat="60.22276345149293" lon="25.01195355057720" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FBF19A74-BFA3-41CE-B9BB-9A32912BD702}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Seattle_Radio_Antenna_03-->
+	<SceneryObject lat="60.22296378481541" lon="25.01234951950826" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FBF19A74-BFA3-41CE-B9BB-9A32912BD702}" scale="0.500000"/>
+	</SceneryObject>
 	<!--SceneryObject name: Seattle_Radio_Antenna_03 (Beacon)-->
-	<!--EXAMPLE-->
 	<SceneryObject lat="61.93087914424670" lon="25.73163421425307" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{FBF19A74-BFA3-41CE-B9BB-9A32912BD702}" scale="0.500000"/>
 		<AttachedObject attachpointName="" instanceId="{474BDC3C-1AE2-4F96-82DA-913E5058B35B}" pitch="0.000000" bank="0.000000" heading="0.000000">
 			<Beacon type="CIVILIAN" baseType="SEA_BASE"/>
 		</AttachedObject>
 	</SceneryObject>
-
+	<ExclusionRectangle latitudeMinimum="60.22381433126296" latitudeMaximum="60.22403929189485" longitudeMinimum="25.01385510217108" longitudeMaximum="25.01430732467823" excludeAllObjects="TRUE"/>
 	<ExclusionRectangle latitudeMinimum="61.93079752404546" latitudeMaximum="61.93093250042459" longitudeMinimum="25.73152448279034" longitudeMaximum="25.73181085231938" excludeAllObjects="TRUE"/>
-
 </FSData>
 
