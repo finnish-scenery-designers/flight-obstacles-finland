@@ -1,6 +1,15 @@
-Seattle_Radio_Antenna_03	250m		{FBF19A74-BFA3-41CE-B9BB-9A32912BD702}
+Seattle_Radio_Antenna_03	260m		{FBF19A74-BFA3-41CE-B9BB-9A32912BD702}
 Seattle_Radio_Antenna_02	250m		{D133BF39-BE5D-4AE6-8609-DD872AEA1488}
 Seattle_Radio_Antenna_01	200m		{E55B5F3B-3E4F-4F69-9F7A-ACCACBBEB018}
 
 
 
+fin_obst_tiilipiippu		100m		{bcf713e4-36d2-471c-34a3-85a59fc588a8}
+fin_obst_efxx_masto		128m		{f88cffd0-1287-490b-f7c3-f300570c4ecd}
+#fin_obst_masto_100m_flgr	168m		{fc282edd-81ee-441f-f06c-2e8e8bd69a70}
+fin_obst_mastot_yllas		126m		{4b2b29e0-9de7-4f1f-b49f-df1480a04f01}
+fin_obst_masto_200m (nil)	324m		{e99429a1-5d8b-4efb-35d7-f46cdd9d6190}
+fin_obst_finlayson		66m		{923eeaa6-2dca-46ba-061b-05fe7949d80e}
+fin_obst_masto_168m_flgr	168m		{fc282edd-81ee-441f-f06c-2e8e8bd69a70}
+fin_obst_masto_168m_fr		168m		{f745a76a-21d7-4c8e-99ff-4e501b78e73d}		
+fin_obst_masto_325m (flgr)	325m		{93842015-8fdc-47c5-4508-48219d632c9d}
