@@ -31,8 +31,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\fin-obst-modelLib</AssetDir>
-			<OutputDir>scenery\global\scenery\</OutputDir>
+			<AssetDir>PackageSources\Obstacles_Lib</AssetDir>
+			<OutputDir>scenery\flight-obstacles-finland\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
