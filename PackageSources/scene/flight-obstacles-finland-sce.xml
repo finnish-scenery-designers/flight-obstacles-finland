@@ -31,6 +31,10 @@
 			<Beacon type="CIVILIAN" baseType="SEA_BASE"/>
 		</AttachedObject>
 	</SceneryObject>
+	<!--SceneryObject name: digita_kauklahti_mast-->
+	<SceneryObject lat="60.17772513505387" lon="24.64012555835361" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D1B0C52C-5F60-470B-8A95-F520AD626095}" scale="1.000000"/>
+	</SceneryObject>
 	<ExclusionRectangle latitudeMinimum="60.22381433126296" latitudeMaximum="60.22403929189485" longitudeMinimum="25.01385510217108" longitudeMaximum="25.01430732467823" excludeAllObjects="TRUE"/>
 	<ExclusionRectangle latitudeMinimum="61.93079752404546" latitudeMaximum="61.93093250042459" longitudeMinimum="25.73152448279034" longitudeMaximum="25.73181085231938" excludeAllObjects="TRUE"/>
 </FSData>

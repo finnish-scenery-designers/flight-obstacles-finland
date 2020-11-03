@@ -3,6 +3,6 @@
 	<ModelInfo guid="{d1b0c52c-5f60-470b-8a95-f520ad626095}" version="1.1">
 		<LODS>
 			<LOD ModelFile="digita_kauklahti_mast_LOD00.gltf" minSize="4"/>
-			<LOD ModelFile="digita_kauklahti_mast_LOD01.gltf"/>
+			<LOD ModelFile="digita_kauklahti_mast_LOD05.gltf"/>
 		</LODS>
 	</ModelInfo>
