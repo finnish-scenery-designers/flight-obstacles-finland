@@ -1,71 +1,44 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-<<<<<<< HEAD
-	<!--SceneryObject name: Seattle_Radio_Antenna_01-->
-	<SceneryObject lat="60.22193548501725" lon="25.01081882417033" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{E55B5F3B-3E4F-4F69-9F7A-ACCACBBEB018}" scale="0.500000"/>
+	<!--SceneryObject name: Construction_BigCrane01-->
+	<SceneryObject lat="60.26235361000000" lon="24.85201417000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{75B2634A-892B-4F3D-A970-702526332F1F}" scale="1.420000"/>
 	</SceneryObject>
-	<!--SceneryObject name: Seattle_Radio_Antenna_01-->
-	<SceneryObject lat="60.22212156395090" lon="25.01102956695366" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{E55B5F3B-3E4F-4F69-9F7A-ACCACBBEB018}" scale="1.000000"/>
+	<!--SceneryObject name: Construction_BigCrane01-->
+	<SceneryObject lat="60.46032597995995" lon="22.12960772867080" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{75B2634A-892B-4F3D-A970-702526332F1F}" scale="1.460000"/>
 	</SceneryObject>
-	<!--SceneryObject name: Seattle_Radio_Antenna_02-->
-	<SceneryObject lat="60.22235285821019" lon="25.01137403569155" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{D133BF39-BE5D-4AE6-8609-DD872AEA1488}" scale="1.000000"/>
+	<!--SceneryObject name: Construction_BigCrane01-->
+	<SceneryObject lat="61.50136956999840" lon="23.61630826999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{75B2634A-892B-4F3D-A970-702526332F1F}" scale="1.600000"/>
 	</SceneryObject>
-	<!--SceneryObject name: Seattle_Radio_Antenna_02-->
-	<SceneryObject lat="60.22252336288953" lon="25.01169446240771" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{D133BF39-BE5D-4AE6-8609-DD872AEA1488}" scale="0.500000"/>
+	<!--SceneryObject name: Construction_BigCrane01-->
+	<SceneryObject lat="63.09923249999726" lon="27.74313944000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{75B2634A-892B-4F3D-A970-702526332F1F}" scale="1.530000"/>
 	</SceneryObject>
-	<!--SceneryObject name: Seattle_Radio_Antenna_03-->
-	<SceneryObject lat="60.22276345149293" lon="25.01195355057720" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{FBF19A74-BFA3-41CE-B9BB-9A32912BD702}" scale="1.000000"/>
+	<!--SceneryObject name: Construction_BigCrane02-->
+	<SceneryObject lat="60.18727889000000" lon="24.98166278000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{032D6436-9762-41D0-8E6F-E63B97D9C9E1}" scale="2.470000"/>
 	</SceneryObject>
-	<!--SceneryObject name: Seattle_Radio_Antenna_03-->
-	<SceneryObject lat="60.22296378481541" lon="25.01234951950826" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{FBF19A74-BFA3-41CE-B9BB-9A32912BD702}" scale="0.500000"/>
+	<!--SceneryObject name: Construction_BigCrane02-->
+	<SceneryObject lat="60.45194444000000" lon="22.29444444000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{032D6436-9762-41D0-8E6F-E63B97D9C9E1}" scale="1.470000"/>
 	</SceneryObject>
-	<!--SceneryObject name: Seattle_Radio_Antenna_03 (Beacon)-->
-	<SceneryObject lat="61.93087914424670" lon="25.73163421425307" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{FBF19A74-BFA3-41CE-B9BB-9A32912BD702}" scale="0.500000"/>
-		<AttachedObject attachpointName="" instanceId="{474BDC3C-1AE2-4F96-82DA-913E5058B35B}" pitch="0.000000" bank="0.000000" heading="0.000000">
-			<Beacon type="CIVILIAN" baseType="SEA_BASE"/>
-		</AttachedObject>
+	<!--SceneryObject name: Construction_BigCrane02-->
+	<SceneryObject lat="60.45777777919403" lon="22.12300447605184" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{032D6436-9762-41D0-8E6F-E63B97D9C9E1}" scale="1.670000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_BigCrane02-->
+	<SceneryObject lat="61.46027416996945" lon="23.76585416982030" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{032D6436-9762-41D0-8E6F-E63B97D9C9E1}" scale="1.670000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_BigCrane02-->
+	<SceneryObject lat="61.49380941760158" lon="23.77340868958419" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{032D6436-9762-41D0-8E6F-E63B97D9C9E1}" scale="1.390000"/>
 	</SceneryObject>
 	<!--SceneryObject name: digita_kauklahti_mast-->
 	<SceneryObject lat="60.17772513505387" lon="24.64012555835361" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D1B0C52C-5F60-470B-8A95-F520AD626095}" scale="1.000000"/>
 	</SceneryObject>
-	<ExclusionRectangle latitudeMinimum="60.22381433126296" latitudeMaximum="60.22403929189485" longitudeMinimum="25.01385510217108" longitudeMaximum="25.01430732467823" excludeAllObjects="TRUE"/>
-	<ExclusionRectangle latitudeMinimum="61.93079752404546" latitudeMaximum="61.93093250042459" longitudeMinimum="25.73152448279034" longitudeMaximum="25.73181085231938" excludeAllObjects="TRUE"/>
-=======
-<SceneryObject lat="60.46032598" lon="22.12997601" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-	<LibraryObject name="{75B2634A-892B-4F3D-A970-702526332F1F}" scale="1.46"/>
-</SceneryObject>
-<SceneryObject lat="61.50136957" lon="23.61630827" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-	<LibraryObject name="{75B2634A-892B-4F3D-A970-702526332F1F}" scale="1.60"/>
-</SceneryObject>
-<SceneryObject lat="61.46027417" lon="23.76585417" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-	<LibraryObject name="{032D6436-9762-41D0-8E6F-E63B97D9C9E1}" scale="1.67"/>
-</SceneryObject>
-<SceneryObject lat="60.45777778" lon="22.12472222" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-	<LibraryObject name="{032D6436-9762-41D0-8E6F-E63B97D9C9E1}" scale="1.67"/>
-</SceneryObject>
-<SceneryObject lat="61.49377778" lon="23.77377194" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-	<LibraryObject name="{032D6436-9762-41D0-8E6F-E63B97D9C9E1}" scale="1.39"/>
-</SceneryObject>
-<SceneryObject lat="60.18727889" lon="24.98166278" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-	<LibraryObject name="{032D6436-9762-41D0-8E6F-E63B97D9C9E1}" scale="2.47"/>
-</SceneryObject>
-<SceneryObject lat="63.0992325" lon="27.74313944" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-	<LibraryObject name="{75B2634A-892B-4F3D-A970-702526332F1F}" scale="1.53"/>
-</SceneryObject>
-<SceneryObject lat="60.45194444" lon="22.29444444" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-	<LibraryObject name="{032D6436-9762-41D0-8E6F-E63B97D9C9E1}" scale="1.47"/>
-</SceneryObject>
-<SceneryObject lat="60.26235361" lon="24.85201417" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-	<LibraryObject name="{75B2634A-892B-4F3D-A970-702526332F1F}" scale="1.42"/>
-</SceneryObject>
->>>>>>> main
 </FSData>
 

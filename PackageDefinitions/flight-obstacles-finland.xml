@@ -26,13 +26,21 @@
 			<AssetDir>PackageSources\scene\</AssetDir>
 			<OutputDir>scenery\world\scenery\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="mymodellib">
+		<AssetGroup Name="obstacleslib">
 			<Type>ArtProj</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\Obstacles_Lib</AssetDir>
-			<OutputDir>scenery\flight-obstacles-finland\</OutputDir>
+			<OutputDir>scenery\global\scenery\</OutputDir>
+		</AssetGroup>		
+		<AssetGroup Name="fin-obst-lib">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\fin-obst-modelLib</AssetDir>
+			<OutputDir>scenery\global\scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
