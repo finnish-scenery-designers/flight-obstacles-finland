@@ -36,9 +36,415 @@
 	<SceneryObject lat="61.49380941760158" lon="23.77340868958419" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{032D6436-9762-41D0-8E6F-E63B97D9C9E1}" scale="1.390000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Haulitorni-->
+	<SceneryObject lat="61.50521877599012" lon="23.71136425820259" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A9CBEA95-D80E-4041-660E-ED76827BE8C2}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Kaunis_DME-->
+	<SceneryObject lat="68.45399599999389" lon="27.45149400000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{48A6B2C7-3533-4F38-ECE8-FEE7520DEDC8}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Nneula-->
+	<SceneryObject lat="61.50459297895419" lon="23.74332915215301" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AAAAD176-1549-FFFF-A6E0-A54E5A0EE216}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Paaskyvuori-->
+	<SceneryObject lat="60.44705300000000" lon="22.33227900000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C877439D-A0EB-4B04-EB4C-BF862B498274}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="60.14903421000000" lon="24.71753954000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.010000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="60.16532260000000" lon="24.90468240000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="60.18365174000000" lon="24.97156124000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.060000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="60.45807526000000" lon="22.05290064000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.130000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="60.46579583000000" lon="26.95639804000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.110000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="60.49061301258077" lon="26.95142098675329" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.250000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="60.53333224999965" lon="26.91231012000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.190000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="60.90220576454109" lon="26.65139856999953" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="60.90608291999907" lon="26.66491423999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.120000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="60.99189125999834" lon="25.72000039999989" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="0.970000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="61.11273457009472" lon="21.46519417999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.250000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="61.13030029998823" lon="28.45159484000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="61.24966968000496" lon="28.86654839999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.090000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="61.26426472000961" lon="24.02267335000001" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.220000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="61.27859747999506" lon="24.04726224999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.160000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="61.32048452998933" lon="22.12229013000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.070000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="61.48882157711666" lon="21.81819878000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.190000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="61.57685706001067" lon="21.55314175000001" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.150000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="61.63172051998679" lon="21.40446483999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="0.990000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="61.81100036994533" lon="25.23888508999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.250000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="62.19180064999809" lon="25.73916122999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.070000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="62.23788305999923" lon="25.81203626000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.150000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="62.25499866000939" lon="21.32648148000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="0.970000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="62.25595538000545" lon="21.32801233000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.080000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="62.31607773999101" lon="27.89568909999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.240000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="62.31880708000777" lon="27.89957799000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.220000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="62.87896870998723" lon="27.67435504000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.260000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="63.09154874004754" lon="21.55219380000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="0.990000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="63.70003497000811" lon="22.71087967000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="63.70481711000143" lon="22.70586532999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.150000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="63.85984595001408" lon="23.04731857000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.070000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="64.12277342000357" lon="25.41297701000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.150000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="65.00452494000666" lon="25.43158523000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.190000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="65.00512747000012" lon="25.43007712000001" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.190000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="65.00569507999980" lon="25.43286566000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.090000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="65.03758851000913" lon="25.43449379999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.150000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Piippu150-->
+	<SceneryObject lat="65.03764039000792" lon="25.43531326999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{16B4E7D6-B0F9-4A2C-0315-D6496EEB3A82}" scale="1.140000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Puijo-->
+	<SceneryObject lat="62.90939299999641" lon="27.65530100000001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{4176BDE4-F646-4C3C-FF92-2AD77042FA17}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Radiomasto_Lahti-->
+	<SceneryObject lat="60.97876875256628" lon="25.64873451995861" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-145.079625" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8F495E44-6B32-4D0B-EA72-8D4415E19928}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Radiomasto_Lahti-->
+	<SceneryObject lat="60.98008763444136" lon="25.64368104846481" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-147.505148" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8F495E44-6B32-4D0B-EA72-8D4415E19928}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Saatutka-->
+	<SceneryObject lat="60.12850000000410" lon="21.64340000000000" alt="60.99999985568508" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="FALSE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{636BA217-4A43-4D4C-CA84-322E6BCFD4BD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Saatutka-->
+	<SceneryObject lat="60.90383699999431" lon="27.10824499999999" alt="138.99999947854400" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="FALSE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{636BA217-4A43-4D4C-CA84-322E6BCFD4BD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Saatutka-->
+	<SceneryObject lat="61.76731160508150" lon="23.07640000000018" alt="152.99207774476972" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="FALSE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{636BA217-4A43-4D4C-CA84-322E6BCFD4BD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Saatutka-->
+	<SceneryObject lat="61.90700000003415" lon="29.79769999999999" alt="173.99999891344697" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="FALSE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{636BA217-4A43-4D4C-CA84-322E6BCFD4BD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Saatutka-->
+	<SceneryObject lat="62.30449999994089" lon="25.44010000000000" alt="270.99999862961641" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="FALSE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{636BA217-4A43-4D4C-CA84-322E6BCFD4BD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Saatutka-->
+	<SceneryObject lat="62.86259999999560" lon="27.38150000000000" alt="267.99999877013732" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="FALSE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{636BA217-4A43-4D4C-CA84-322E6BCFD4BD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Saatutka-->
+	<SceneryObject lat="63.10479999998821" lon="23.82089999999999" alt="199.99999912620396" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="FALSE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{636BA217-4A43-4D4C-CA84-322E6BCFD4BD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Saatutka-->
+	<SceneryObject lat="63.83781841134766" lon="29.44890000000079" alt="322.87064535274828" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="FALSE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{636BA217-4A43-4D4C-CA84-322E6BCFD4BD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Saatutka-->
+	<SceneryObject lat="64.77489999999521" lon="26.31889999999999" alt="117.99999921078904" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="FALSE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{636BA217-4A43-4D4C-CA84-322E6BCFD4BD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Saatutka-->
+	<SceneryObject lat="67.13909999975213" lon="26.89690000000034" alt="532.61952173792235" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="FALSE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{636BA217-4A43-4D4C-CA84-322E6BCFD4BD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Siilinkari_majakka-->
+	<SceneryObject lat="61.51757492284181" lon="23.75392823600111" alt="0.00000000000000" pitch="0.001482" bank="-0.001482" heading="128.373884" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AA6B9AE6-98E8-4174-E99E-0082E7E5EF03}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tornihotelli-->
+	<SceneryObject lat="61.49687105831422" lon="23.77590595073205" alt="0.00000000000000" pitch="0.000826" bank="-0.000826" heading="175.661619" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0F9782E9-5A57-4E4C-B313-9CEBB8D6B715}" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: digita_kauklahti_mast-->
-	<SceneryObject lat="60.17772513505387" lon="24.64012555835361" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="60.17772513505236" lon="24.64012555835361" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D1B0C52C-5F60-470B-8A95-F520AD626095}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_finlayson-->
+	<SceneryObject lat="60.20700889000678" lon="24.61540722000001" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{923EEAA6-2DCA-46BA-061B-05FE7949D80E}" scale="0.660000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_finlayson-->
+	<SceneryObject lat="62.31826022999378" lon="27.89791584000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{923EEAA6-2DCA-46BA-061B-05FE7949D80E}" scale="0.660000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_finlayson-->
+	<SceneryObject lat="62.59324722000538" lon="29.83792193999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{923EEAA6-2DCA-46BA-061B-05FE7949D80E}" scale="0.660000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_finlayson-->
+	<SceneryObject lat="62.59391870999489" lon="25.74013141999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{923EEAA6-2DCA-46BA-061B-05FE7949D80E}" scale="0.660000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_finlayson-->
+	<SceneryObject lat="64.23348199000091" lon="27.68922970999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{923EEAA6-2DCA-46BA-061B-05FE7949D80E}" scale="0.660000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.18501199123095" lon="24.97044580776403" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.20771708999563" lon="24.90623774999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.890000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.22593911000256" lon="25.07973583000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.990000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.23386579999316" lon="24.88930552000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.940000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.23747064999679" lon="24.98028118000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.840000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.30831681000000" lon="25.52415778000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.950000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.31166324999600" lon="25.52547617000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.950000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.31174401999862" lon="25.52517744000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.950000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.31235936999624" lon="25.52522126000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.950000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.31276838000305" lon="25.52606172000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.950000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.31295148999671" lon="25.52258983000001" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.950000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.31398523998941" lon="25.52704075999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.950000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.37049129000953" lon="26.34740119999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.940000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.43891234995575" lon="22.23814464000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.990000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.44685247998915" lon="22.08887387105743" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.990000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.46068439329282" lon="22.05298755608127" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.910000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.70807551711804" lon="26.82060022376641" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.920000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.76866462000844" lon="26.77347293000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.900000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.90707909999907" lon="26.66830108000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.980000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="60.99071082998964" lon="25.72001721999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.830000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="61.06582104000984" lon="28.23923119000001" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.870000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="61.06592490998860" lon="28.23956480999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.870000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="61.23509057000803" lon="21.43635409000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="61.23615686999990" lon="21.44253554000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.950000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="61.23709604000208" lon="21.44600093000001" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.950000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="61.24840656999452" lon="28.86525068000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.910000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="61.26439252000976" lon="24.02119167999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.810000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="61.47382620001490" lon="23.49718393999998" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.900000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="61.50607533000629" lon="23.76386143999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.950000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="62.02723212986087" lon="24.63549580000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.840000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="62.31658340998911" lon="27.89409698000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.830000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="62.59307123998840" lon="25.74799270000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.830000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="62.87935625000119" lon="27.67435434000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.980000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="63.09140026999214" lon="21.55436227000001" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.920000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="64.63997737999789" lon="24.40678045000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.950000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="64.64029609000001" lon="24.40361742000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.950000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="65.03316832999202" lon="25.51276122000000" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.970000"/>
+	</SceneryObject>
+	<!--SceneryObject name: fin_obst_tiilipiippu-->
+	<SceneryObject lat="65.03577889001021" lon="25.51512721999999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BCF713E4-36D2-471C-34A3-85A59FC588A8}" scale="0.910000"/>
 	</SceneryObject>
 </FSData>
 

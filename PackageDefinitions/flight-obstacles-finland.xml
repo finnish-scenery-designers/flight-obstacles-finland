@@ -33,7 +33,7 @@
 			</Flags>
 			<AssetDir>PackageSources\Obstacles_Lib</AssetDir>
 			<OutputDir>scenery\global\scenery\</OutputDir>
-		</AssetGroup>		
+		</AssetGroup>	
 		<AssetGroup Name="fin-obst-lib">
 			<Type>ArtProj</Type>
 			<Flags>
