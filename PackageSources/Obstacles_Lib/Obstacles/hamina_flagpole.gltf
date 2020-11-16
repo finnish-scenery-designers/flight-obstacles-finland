@@ -1,0 +1,565 @@
+{
+    "asset" : {
+        "copyright" : "Juha Ronkko",
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Extended Khronos glTF Blender I/O v1.0.0",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention",
+        "ASOBO_macro_light"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "msfs_guid" : "{b990caa9-7e3b-4179-7e0b-689d7c7c3744}",
+                "glTF2ExportSettings" : {
+                    "export_apply" : 1,
+                    "export_copyright" : "Juha Ronkko",
+                    "export_extras" : 1,
+                    "export_generate_guid" : 1,
+                    "export_texture_dir" : "../texture",
+                    "export_xml" : 1,
+                    "export_xml_file" : "hamina_flagpole.xml",
+                    "use_selection" : 1
+                }
+            },
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                6
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Cylinder",
+            "translation" : [
+                0,
+                50.050174713134766,
+                0
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0,
+                        0.005209510680288076
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Point",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0.5,
+                0,
+                0
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0,
+                        0.005209510680288076
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Point.001",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                -0.5,
+                0,
+                0
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0,
+                        0.005209510680288076
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Point.002",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                0,
+                -0.5
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0,
+                        0.005209510680288076
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Point.003",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0,
+                        0.005209510680288076
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Point.004",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                0.5,
+                0
+            ]
+        },
+        {
+            "children" : [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "mesh" : 1,
+            "name" : "Icosphere",
+            "translation" : [
+                0,
+                100.43089294433594,
+                0
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extras" : {
+                "msfs_material_mode" : 1,
+                "msfs_show_tint" : 1,
+                "msfs_show_sss_color" : 0,
+                "msfs_show_glass_parameters" : 0,
+                "msfs_show_decal_parameters" : 0,
+                "msfs_show_fresnel_parameters" : 0,
+                "msfs_show_parallax_parameters" : 0,
+                "msfs_show_geo_decal_parameters" : 0,
+                "msfs_show_albedo" : 1,
+                "msfs_show_metallic" : 1,
+                "msfs_show_normal" : 1,
+                "msfs_show_emissive" : 1,
+                "msfs_show_detail_albedo" : 1,
+                "msfs_show_detail_metallic" : 1,
+                "msfs_show_detail_normal" : 1,
+                "msfs_show_blend_mask" : 1,
+                "msfs_show_anisotropic_direction" : 0,
+                "msfs_show_clearcoat" : 0,
+                "msfs_show_behind_glass" : 0,
+                "msfs_show_blend_mode" : 1,
+                "msfs_show_draworder" : 1,
+                "msfs_show_no_cast_shadow" : 1,
+                "msfs_show_double_sided" : 1,
+                "msfs_show_responsive_aa" : 0,
+                "msfs_show_day_night_cycle" : 1,
+                "msfs_show_collision_material" : 1,
+                "msfs_show_road_material" : 1,
+                "msfs_show_ao_use_uv2" : 1,
+                "msfs_show_uv_clamp" : 1,
+                "msfs_show_alpha_cutoff" : 1,
+                "msfs_show_blend_threshold" : 1,
+                "msfs_color_albedo_mix" : [
+                    0,
+                    0.0015176646411418915,
+                    0.7991030216217041
+                ]
+            },
+            "name" : "blue",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0,
+                    0.0015176646411418915,
+                    0.7991030216217041,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extras" : {
+                "msfs_material_mode" : 1,
+                "msfs_show_tint" : 1,
+                "msfs_show_sss_color" : 0,
+                "msfs_show_glass_parameters" : 0,
+                "msfs_show_decal_parameters" : 0,
+                "msfs_show_fresnel_parameters" : 0,
+                "msfs_show_parallax_parameters" : 0,
+                "msfs_show_geo_decal_parameters" : 0,
+                "msfs_show_albedo" : 1,
+                "msfs_show_metallic" : 1,
+                "msfs_show_normal" : 1,
+                "msfs_show_emissive" : 1,
+                "msfs_show_detail_albedo" : 1,
+                "msfs_show_detail_metallic" : 1,
+                "msfs_show_detail_normal" : 1,
+                "msfs_show_blend_mask" : 1,
+                "msfs_show_anisotropic_direction" : 0,
+                "msfs_show_clearcoat" : 0,
+                "msfs_show_behind_glass" : 0,
+                "msfs_show_blend_mode" : 1,
+                "msfs_show_draworder" : 1,
+                "msfs_show_no_cast_shadow" : 1,
+                "msfs_show_double_sided" : 1,
+                "msfs_show_responsive_aa" : 0,
+                "msfs_show_day_night_cycle" : 1,
+                "msfs_show_collision_material" : 1,
+                "msfs_show_road_material" : 1,
+                "msfs_show_ao_use_uv2" : 1,
+                "msfs_show_uv_clamp" : 1,
+                "msfs_show_alpha_cutoff" : 1,
+                "msfs_show_blend_threshold" : 1,
+                "msfs_metallic_scale" : 1,
+                "msfs_roughness_scale" : 0,
+                "msfs_normal_scale" : 0,
+                "msfs_alpha_cutoff" : 1
+            },
+            "name" : "white",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cylinder.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        },
+        {
+            "name" : "Icosphere",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 11,
+                    "material" : 1
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 224,
+            "max" : [
+                0.7751203775405884,
+                50.00003433227539,
+                0.7751202583312988
+            ],
+            "min" : [
+                -0.7751202583312988,
+                -10.744515419006348,
+                -0.7751203775405884
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 224,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 224,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 288,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 478,
+            "max" : [
+                1,
+                50.00003433227539,
+                1
+            ],
+            "min" : [
+                -1,
+                -50,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 478,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 478,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 672,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 240,
+            "max" : [
+                0.47552892565727234,
+                0.5,
+                0.4999999701976776
+            ],
+            "min" : [
+                -0.47552892565727234,
+                -0.5,
+                -0.4999999701976776
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 240,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 240,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5123,
+            "count" : 240,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 2688,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2688,
+            "byteOffset" : 2688
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1792,
+            "byteOffset" : 5376
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 576,
+            "byteOffset" : 7168
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 5736,
+            "byteOffset" : 7744
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 5736,
+            "byteOffset" : 13480
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3824,
+            "byteOffset" : 19216
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1344,
+            "byteOffset" : 23040
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2880,
+            "byteOffset" : 24384
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2880,
+            "byteOffset" : 27264
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1920,
+            "byteOffset" : 30144
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 480,
+            "byteOffset" : 32064
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 32544,
+            "uri" : "hamina_flagpole.bin"
+        }
+    ]
+}

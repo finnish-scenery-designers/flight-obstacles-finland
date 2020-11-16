@@ -3,7 +3,7 @@
 		<ContentType>SCENERY</ContentType>
 		<Title>Flight Obstacles Finland</Title>
 		<Manufacturer/>
-		<Creator>Finnish Scenery Designers</Creator>
+		<Creator>FISD</Creator>
 	</ItemSettings>
 	<Flags>
 		<VisibleInStore>false</VisibleInStore>
@@ -18,6 +18,14 @@
 			<AssetDir>PackageDefinitions\flight-obstacles-finland\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\flight-obstacles-finland\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="fin-obst-lib">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\fin-obst-modelLib\</AssetDir>
+			<OutputDir>scenery\global\scenery\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="flight-obstacles-finland">
 			<Type>BGL</Type>
 			<Flags>
@@ -31,15 +39,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\Obstacles_Lib</AssetDir>
-			<OutputDir>scenery\global\scenery\</OutputDir>
-		</AssetGroup>	
-		<AssetGroup Name="fin-obst-lib">
-			<Type>ArtProj</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageSources\fin-obst-modelLib</AssetDir>
+			<AssetDir>PackageSources\Obstacles_Lib\</AssetDir>
 			<OutputDir>scenery\global\scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
