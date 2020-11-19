@@ -2,17 +2,30 @@
 	<Entry Path="Obstacles\hamina_flagpole.gltf" Timestamp="13250025108"/>
 	<Entry Path="Obstacles\turku_meyer.bin" Timestamp="13250024092"/>
 	<Entry Path="Obstacles\hamina_flagpole.xml" Timestamp="13250025108"/>
-	<Entry Path="TEXTURE\BETONI.PNG" Timestamp="13248974316"/>
+	<Entry Path="Obstacles\betoni_piippu.xml" Timestamp="13250293143"/>
+	<Entry Path="Obstacles\Masts\masto_168m.gltf" Timestamp="13250088065"/>
+	<Entry Path="TEXTURE\BETONI.PNG" Timestamp="13250293143"/>
 	<Entry Path="Obstacles\Piippu150.bin" Timestamp="13248974316"/>
 	<Entry Path="Obstacles\Piippu150.gltf" Timestamp="13248974316"/>
 	<Entry Path="TEXTURE\RC1200.PNG" Timestamp="13250025300"/>
+	<Entry Path="Obstacles\betoni_piippu.bin" Timestamp="13250293143"/>
+	<Entry Path="TEXTURE\BETONI_TUMMA.PNG" Timestamp="13250293143"/>
+	<Entry Path="Obstacles\masto_168m.gltf" Timestamp="13250088065"/>
 	<Entry Path="Obstacles\digita_kauklahti_mast_LOD00.bin" Timestamp="13248974316"/>
 	<Entry Path="TEXTURE\KONECRANES_LOGO.PNG" Timestamp="13250024092"/>
+	<Entry Path="Obstacles\Masts\masto_168m.bin" Timestamp="13250088065"/>
+	<Entry Path="Obstacles\fin_flag.gltf" Timestamp="13250050469"/>
+	<Entry Path="Obstacles\fin_flag.bin" Timestamp="13250050469"/>
+	<Entry Path="Obstacles\betoni_piippu.gltf" Timestamp="13250293143"/>
 	<Entry Path="Obstacles\digita_kauklahti_mast_LOD00.gltf" Timestamp="13248974316"/>
-	<Entry Path="TEXTURE\BETONI_NORM.PNG" Timestamp="13248974316"/>
+	<Entry Path="TEXTURE\BETONI_NORM.PNG" Timestamp="13250293143"/>
 	<Entry Path="Obstacles\digita_kauklahti_mast_LOD05.gltf" Timestamp="13248974316"/>
+	<Entry Path="Obstacles\masto_168m.bin" Timestamp="13250088065"/>
 	<Entry Path="TEXTURE\TINYPALETTE.PNG" Timestamp="13248974316"/>
 	<Entry Path="Obstacles\Piippu150.xml" Timestamp="13248974316"/>
+	<Entry Path="Obstacles\fin_flag.xml" Timestamp="13250050469"/>
+	<Entry Path="Obstacles\masto_168m.xml" Timestamp="13250088065"/>
+	<Entry Path="Obstacles\Masts\masto_168m.xml" Timestamp="13250088065"/>
 	<Entry Path="Obstacles\hamina_flagpole.bin" Timestamp="13250025108"/>
 	<Entry Path="TEXTURE\RUSTY_METAL_ROUGHNESS-3CH.PNG" Timestamp="13248974316"/>
 	<Entry Path="Obstacles\digita_kauklahti_mast_LOD05.bin" Timestamp="13248974316"/>

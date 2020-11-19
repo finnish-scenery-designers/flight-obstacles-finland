@@ -13,9 +13,10 @@ fin_obst_efxx_masto		128m		{f88cffd0-1287-490b-f7c3-f300570c4ecd}
 fin_obst_mastot_yllas		126m		{4b2b29e0-9de7-4f1f-b49f-df1480a04f01}
 fin_obst_masto_200m (nil)	324m		{e99429a1-5d8b-4efb-35d7-f46cdd9d6190}
 fin_obst_finlayson		66m		{923eeaa6-2dca-46ba-061b-05fe7949d80e}
-fin_obst_masto_168m_flgr	168m		{fc282edd-81ee-441f-f06c-2e8e8bd69a70}
 fin_obst_masto_168m_fr		168m		{f745a76a-21d7-4c8e-99ff-4e501b78e73d}		
 fin_obst_masto_325m (flgr)	325m		{93842015-8fdc-47c5-4508-48219d632c9d}
 
 Piippu150m			150m		{16b4e7d6-b0f9-4a2c-0315-d6496eeb3a82}
 digita_kauklahti_mast				{d1b0c52c-5f60-470b-8a95-f520ad626095}
+betoni_piippu			120m		{ced51781-a589-4c96-baae-f3517542dc36}
+masto_168m			168m		{fc282edd-81ee-441f-f06c-2e8e8bd69a70}
