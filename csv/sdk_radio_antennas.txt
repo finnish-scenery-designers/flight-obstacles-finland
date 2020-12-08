@@ -8,7 +8,7 @@ Construction_BigCrane02		72m		{032D6436-9762-41D0-8E6F-E63B97D9C9E1}
 
 
 fin_obst_tiilipiippu		100m		{bcf713e4-36d2-471c-34a3-85a59fc588a8}
-fin_obst_efxx_masto		128m		{f88cffd0-1287-490b-f7c3-f300570c4ecd}
+#fin_obst_efxx_masto		128m		{f88cffd0-1287-490b-f7c3-f300570c4ecd}
 #fin_obst_masto_100m_flgr	168m		{fc282edd-81ee-441f-f06c-2e8e8bd69a70}
 fin_obst_mastot_yllas		126m		{4b2b29e0-9de7-4f1f-b49f-df1480a04f01}
 fin_obst_masto_200m (nil)	324m		{e99429a1-5d8b-4efb-35d7-f46cdd9d6190}
@@ -21,3 +21,4 @@ digita_kauklahti_mast				{d1b0c52c-5f60-470b-8a95-f520ad626095}
 betoni_piippu			120m		{ced51781-a589-4c96-baae-f3517542dc36}
 masto_168m			168m		{fc282edd-81ee-441f-f06c-2e8e8bd69a70}
 masto_325m			325m		{93842015-8fdc-47c5-4508-48219d632c9d}
+masto_120m			120m		{f88cffd0-1287-490b-f7c3-f300570c4ecd}
