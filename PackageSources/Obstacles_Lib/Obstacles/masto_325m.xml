@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{93842015-8fdc-47c5-4508-48219d632c9d}" version="1.1">
+		<LODS>
+			<LOD ModelFile="masto_325m_LOD00.gltf" minSize="50"/>
+			<LOD ModelFile="masto_325m_LOD01.gltf" minSize="25"/>
+			<LOD ModelFile="masto_325m_LOD02.gltf"/>
+		</LODS>
+	</ModelInfo>

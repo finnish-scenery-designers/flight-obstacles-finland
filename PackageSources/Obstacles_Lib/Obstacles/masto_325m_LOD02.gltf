@@ -1,0 +1,393 @@
+{
+    "asset" : {
+        "copyright" : "Tatu Kantomaa / Juha R\u00f6nkk\u00f6",
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Extended Khronos glTF Blender I/O v1.0.0",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "glTF2ExportSettings" : {
+                    "export_apply" : 1,
+                    "export_copyright" : "Tatu Kantomaa / Juha R\u00f6nkk\u00f6",
+                    "export_extras" : 1,
+                    "export_generate_guid" : 1,
+                    "export_lods" : 0,
+                    "export_texture_dir" : "../texture",
+                    "export_xml" : 0,
+                    "export_xml_file" : "fin_obst_masto_325m.xml",
+                    "use_selection" : 1
+                },
+                "msfs_guid" : "{93842015-8fdc-47c5-4508-48219d632c9d}"
+            },
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "masto_325.002",
+            "scale" : [
+                1.4055663347244263,
+                150.4479522705078,
+                1.6045500040054321
+            ],
+            "translation" : [
+                -0.045073509216308594,
+                150.2573699951172,
+                0
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extras" : {
+                "msfs_material_mode" : 1,
+                "msfs_show_tint" : 1,
+                "msfs_show_sss_color" : 0,
+                "msfs_show_glass_parameters" : 0,
+                "msfs_show_decal_parameters" : 0,
+                "msfs_show_fresnel_parameters" : 0,
+                "msfs_show_parallax_parameters" : 0,
+                "msfs_show_geo_decal_parameters" : 0,
+                "msfs_show_albedo" : 1,
+                "msfs_show_metallic" : 1,
+                "msfs_show_normal" : 1,
+                "msfs_show_emissive" : 1,
+                "msfs_show_detail_albedo" : 1,
+                "msfs_show_detail_metallic" : 1,
+                "msfs_show_detail_normal" : 1,
+                "msfs_show_blend_mask" : 1,
+                "msfs_show_anisotropic_direction" : 0,
+                "msfs_show_clearcoat" : 0,
+                "msfs_show_behind_glass" : 0,
+                "msfs_show_blend_mode" : 1,
+                "msfs_show_draworder" : 1,
+                "msfs_show_no_cast_shadow" : 1,
+                "msfs_show_double_sided" : 1,
+                "msfs_show_responsive_aa" : 0,
+                "msfs_show_day_night_cycle" : 1,
+                "msfs_show_collision_material" : 1,
+                "msfs_show_road_material" : 1,
+                "msfs_show_ao_use_uv2" : 1,
+                "msfs_show_uv_clamp" : 1,
+                "msfs_show_alpha_cutoff" : 1,
+                "msfs_show_blend_threshold" : 1,
+                "msfs_color_albedo_mix" : [
+                    1,
+                    0.03647557273507118,
+                    0.061131011694669724
+                ]
+            },
+            "name" : "red",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    0.03647557273507118,
+                    0.061131011694669724,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "white",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extras" : {
+                "msfs_material_mode" : 1,
+                "msfs_show_tint" : 1,
+                "msfs_show_sss_color" : 0,
+                "msfs_show_glass_parameters" : 0,
+                "msfs_show_decal_parameters" : 0,
+                "msfs_show_fresnel_parameters" : 0,
+                "msfs_show_parallax_parameters" : 0,
+                "msfs_show_geo_decal_parameters" : 0,
+                "msfs_show_albedo" : 1,
+                "msfs_show_metallic" : 1,
+                "msfs_show_normal" : 1,
+                "msfs_show_emissive" : 1,
+                "msfs_show_detail_albedo" : 1,
+                "msfs_show_detail_metallic" : 1,
+                "msfs_show_detail_normal" : 1,
+                "msfs_show_blend_mask" : 1,
+                "msfs_show_anisotropic_direction" : 0,
+                "msfs_show_clearcoat" : 0,
+                "msfs_show_behind_glass" : 0,
+                "msfs_show_blend_mode" : 1,
+                "msfs_show_draworder" : 1,
+                "msfs_show_no_cast_shadow" : 1,
+                "msfs_show_double_sided" : 1,
+                "msfs_show_responsive_aa" : 0,
+                "msfs_show_day_night_cycle" : 1,
+                "msfs_show_collision_material" : 1,
+                "msfs_show_road_material" : 1,
+                "msfs_show_ao_use_uv2" : 1,
+                "msfs_show_uv_clamp" : 1,
+                "msfs_show_alpha_cutoff" : 1,
+                "msfs_show_blend_threshold" : 1,
+                "msfs_color_albedo_mix" : [
+                    1,
+                    0.09328041970729828,
+                    0.10070601850748062
+                ]
+            },
+            "name" : "orange",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    0.09328041970729828,
+                    0.10070601850748062,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 11,
+                    "material" : 2
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 132,
+            "max" : [
+                1,
+                0.8651084899902344,
+                1.0134973526000977
+            ],
+            "min" : [
+                -1,
+                -1.000152349472046,
+                -0.9865026473999023
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 132,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 132,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 198,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 144,
+            "max" : [
+                1,
+                0.9816873073577881,
+                1.0134973526000977
+            ],
+            "min" : [
+                -1,
+                -1.000152349472046,
+                -0.9865026473999023
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 144,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 144,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 216,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 68,
+            "max" : [
+                1.794052243232727,
+                1.1204336881637573,
+                1.8075504302978516
+            ],
+            "min" : [
+                -1.794052243232727,
+                0.9816873073577881,
+                -1.7805557250976562
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 68,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 68,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5123,
+            "count" : 102,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 1584,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1584,
+            "byteOffset" : 1584
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1056,
+            "byteOffset" : 3168
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 396,
+            "byteOffset" : 4224
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1728,
+            "byteOffset" : 4620
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1728,
+            "byteOffset" : 6348
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1152,
+            "byteOffset" : 8076
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 432,
+            "byteOffset" : 9228
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 816,
+            "byteOffset" : 9660
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 816,
+            "byteOffset" : 10476
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 544,
+            "byteOffset" : 11292
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 204,
+            "byteOffset" : 11836
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 12040,
+            "uri" : "masto_325m_LOD02.bin"
+        }
+    ]
+}
